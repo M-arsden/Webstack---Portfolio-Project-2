@@ -2,7 +2,8 @@ from django.contrib import admin
 from django.apps import apps
 from . models import *
 
-"""models = apps.get_app_config('school').get_models()
+""" one way to get models in django admin
+models = apps.get_app_config('school').get_models()
 for model in models:
     admin.site.register(model)"""
 

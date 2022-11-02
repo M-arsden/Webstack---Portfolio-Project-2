@@ -43,17 +43,17 @@
                 <a href="{% url 'courseDetail' c.id %}">
                     <div class="hr-rvw">
                         {% if c.duration %}
-                        <lable class="hour">{{c.duration}}</lable>
+                        <label class="hour">{{c.duration}}</label>
                         {% endif %}
                         {% if c.title %}
-                        <lable class="review">4 review</lable>
+                        <label class="review">4 review</label>
                         {% endif %}
                     </div>
                 </a>
             </div>
         </div><!-- course -->
         {% endfor %}
-    </div> <!-- right-pannel -->
+    </div> <!-- right-panel -->
 
 </div> <!-- container -->
 

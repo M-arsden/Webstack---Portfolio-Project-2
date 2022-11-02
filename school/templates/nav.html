@@ -18,7 +18,7 @@
                 <li class="li-account">Account</li>
                 <div class="account">
 
-                    <label style="margin-left: 15px;">Hi {% if request.user.first_name %} {{ request.user.first_name }} {% else %} {{ request.user.username }} {% endif %}</a></label>
+                    <label style="margin-left: 15px;">Hi {% if request.user.first_name %} {{ request.user.first_name }} {% else %} {{ request.user.username }} {% endif %}</label>
                     <li><a href="{% url 'myAccount' request.user.id %}">My Account</a></li>
                     <li><a href="{% url 'myCourses' %}">My Courses</a></li>
                     <li><a href="{% url 'auth_password_change' %}">Update Password</a></li>
