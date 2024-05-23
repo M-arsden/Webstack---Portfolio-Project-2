@@ -4,14 +4,12 @@
 This is video based learning system to assist the students, like those attending ALX school, to get expert or mentor lectures easily. To easily group the course videos, the databases are categorized into contents, modules, and courses. The course can have multiple modules and the same module can have multiple contents. The courses have their reference tab to hold any books or documents to help the students to get references on the specific subject. 
 
 ### About Me 
-My name is Mikiyas Adere, ALX graduate with software engineer, backend specialized. I do have experience in Django and I did more than 3 projects, including this one, with MySQL database and HTML, CSS & some JavaScript. I am studying Computer Science to be graduated on 2023. I'm also have BA degree in Logistics and Supply Chain Management with 5+ years experience as Procurement Officer. I love coding and I want to be web and application developer. I’m passionate about creating truly beautiful, efficient and problem solving softwares. 
+My name is Marsden Abucheri, ALX graduate with software engineer, backend specialized. I do have experience in Django and I did more than 3 projects, including this one, with MySQL database and HTML, CSS & some JavaScript. I am studying Computer Science to be graduated on 2023. I'm also have BA degree in Logistics and Supply Chain Management with 5+ years experience as Procurement Officer. I love coding and I want to be web and application developer. I’m passionate about creating truly beautiful, efficient and problem solving softwares. 
 
-+ [LinkedIn](https://www.linkedin.com/in/mikiyas-adere-373258225) - Mikiyas Adere
 
 ### Installation
 The first thing to do is to clone the repository:
 
->  $ https://github.com/MikiyasA/ALX-Webstack-Portfolio_Project_E-Learning_System
 
 
 Then make sure your machine is capable to run the code. The below command is for Linux OS
